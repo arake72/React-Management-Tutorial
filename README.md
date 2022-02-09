@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+본 프로젝트는 react 강의 튜토리얼을 찬찬히 따라간 것
 
 ## Available Scripts
 
